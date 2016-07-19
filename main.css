@@ -6,6 +6,9 @@ h1 {
 
 body {
 	text-align: center;
+}
+
+.hero {
 	background-image: url(background.png);
 	background-size: cover;
 }
