@@ -1,10 +1,10 @@
 h1 {
-	font-size: 32px;
+	font-size: 56px;
 	font-family: Palatino,'Palatino Linotype', serif;
 	color:white;
 }
 
 body {
-	background-color: rgb(0,0,0);
+	background-image: background.png;
 	text-align: center;
 }
