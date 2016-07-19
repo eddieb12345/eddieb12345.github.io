@@ -5,6 +5,10 @@ h1 {
 }
 
 body {
-	text-align: center;
 	background-color:black;
+}
+
+.page-title {
+	border: 1px solid #000;
+	text-align: center
 }
