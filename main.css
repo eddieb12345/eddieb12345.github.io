@@ -1,3 +1,9 @@
-title {
-font-size: 32px
+h1 {
+	font-size: 32px;
+	font-family: Palatino,'Palatino Linotype', serif;
+	color:white;
+}
+
+body {
+	background-color: rgb(0,0,0);
 }
