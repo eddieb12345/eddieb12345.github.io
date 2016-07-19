@@ -14,3 +14,11 @@ body {
 	border-right: hidden;
 	text-align: center;
 }
+
+.jumbotron {
+
+	display: flex;
+	align-items:center;
+	background image; url(background.png);
+	background-size:cover;
+}
