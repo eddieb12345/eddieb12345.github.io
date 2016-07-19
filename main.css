@@ -19,7 +19,7 @@ body {
   display: flex;
   align-items: center;
   background-image: url(background.png);
-  background-position: 500px 100px;
+  background-position: center
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
