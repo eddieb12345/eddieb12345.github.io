@@ -1,14 +1,8 @@
 h1 {
 	font-size: 56px;
 	font-family: Palatino,'Palatino Linotype', serif;
-	color:black;
+	color:white;
 }
 
 body {
 	text-align: center;
-}
-
-.hero {
-	background-image: url(background.png);
-	background-size: cover;
-}
