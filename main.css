@@ -6,6 +6,7 @@ h1 {
 
 body {
 	background-color:rgb(16,17,35);
+	
 }
 
 .page-title {
@@ -19,7 +20,7 @@ body {
   display: flex;
   align-items: center;
   background-image: url(background.png);
-  background-position: center
+  background-size: cover;
   color: #ffffff;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
