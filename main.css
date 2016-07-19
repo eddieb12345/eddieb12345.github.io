@@ -10,6 +10,7 @@ body {
 
 .page-title {
 	border: 1px solid white;
-	border-bottom: 6px solid red;
+	border-left: none
+	border-right: none
 	text-align: center
 }
