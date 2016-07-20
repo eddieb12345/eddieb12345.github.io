@@ -1,13 +1,3 @@
-h1 {
-	font-size: 56px;
-	font-family: Palatino,'Palatino Linotype', serif;
-	color:white;
-}
-
-h2 {
-    color:white;
-}
-
 body {
 	background-color:rgb(16,17,35);
 }
@@ -22,11 +12,16 @@ body {
 .jumbotron {
   align-items: center;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  height: 390px;
-  background-image:url(background1.png);
-  background-position: 50%;
-  background-repeat:no-repeat;
-  background-size:cover;
+  display: flex;    
+  color:white
+  padding:0;
+  margin-bottom:0;
+  background-color:rgb(16,17,35);
+}
+
+.jumbotron h1{
+    font-size: 56px;
+	font-family: Palatino,'Palatino Linotype', serif;
 }
 
 p {
@@ -36,8 +31,25 @@ p {
     
 }
 
-.centerBlock {
-    display: table;
-    margin: 0 auto;
+h1{
+    color:white;
+    font-size: 56px;
+	font-family: Palatino,'Palatino Linotype', serif;
 }
 
+h2 {
+    color:white
+}
+
+h3 {
+    color:white;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
