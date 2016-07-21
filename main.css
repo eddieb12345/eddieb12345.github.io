@@ -1,5 +1,5 @@
 body {
-	background-color:rgb(16,17,35);
+	background-color:rgb(2,17,35);
 }
 
 .page-title {
@@ -16,7 +16,7 @@ body {
   color:white
   padding:0;
   margin-bottom:0;
-  background-color:rgb(16,17,35);
+  background-color:rgb(2,17,35);
 }
 
 .jumbotron h1{
@@ -35,14 +35,22 @@ h1{
     color:white;
     font-size: 56px;
 	font-family: Palatino,'Palatino Linotype', serif;
+    text-align:center;
 }
 
 h2 {
-    color:white
+    color:white;
+    text-align:center
 }
 
 h3 {
     color:white;
+    text-align:center
+}
+
+h4{
+    color:gray;
+    text-align:center;
 }
 
 .wrapper {
