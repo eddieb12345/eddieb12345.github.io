@@ -1,5 +1,8 @@
 body {
 	background-color:rgb(2,17,35);
+    margin-top:30px;
+    margin-bottom:30px;
+ 
 }
 
 .page-title {
@@ -28,7 +31,6 @@ p {
     color:white;
     text-align:center;
     font-size:12px;
-    
 }
 
 h1{
@@ -53,11 +55,25 @@ h4{
     text-align:center;
 }
 
-.wrapper {
-    text-align: center;
+h5 {
+    color:gray;
+    text-align:center;
+    font-size:15px;
 }
+
 
 .button {
     position: absolute;
     top: 50%;
+}
+
+#navbar {
+	/*Add your CSS here!*/
+	
+	left:50%;
+	margin-left:-800px;
+	position:fixed;
+	margin-top:50px;
+    font-size:30px;
+    color:white;
 }
